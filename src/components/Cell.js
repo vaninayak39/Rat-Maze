@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function maze() {
+export default function Cell() {
     return (
         <div>
             
